@@ -11,7 +11,7 @@
 
 ## Technologies used
 
-* [**React**]
+* [React]
 * [Redux]
 * [Enzyme] 
 * [Bootstrap] 
@@ -21,9 +21,8 @@ All components, reducers and actions being tested, it's a greaet example for tho
 ## How To Use
 
 Clone the repository : 
+`https://github.com/emadgit/React-Redux-Comment-Box.git`
 
-```https://github.com/emadgit/React-Redux-Comment-Box.git
-```
 <br />
 Go to React-Redux-Comment-Box Directory
 
@@ -31,14 +30,10 @@ Go to React-Redux-Comment-Box Directory
 
 In your terminal, run : 
 
-``` npm run start
-```
+`npm run start`
+
 
 <br />
 For tests, run : 
 
-``` npm run test
-```
-
-
-
+`npm run test`
