@@ -1,12 +1,12 @@
 import React from 'react';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import CommentBox from './CommentBox';
 import CommentList from './CommentList';
 
 export default () => {
     return (
         <div className="jumbotron">
-            <h1 className="display-4">React Redux CommentBox</h1>
+            <h1 className="display-4">React Redux CommentBox <FontAwesomeIcon icon="stroopwafel" /></h1>
             <p className="lead">A simple commentbox which is fully powered with react, redux, bootstrap and enzyme!</p>
             <CommentBox />
             <CommentList />
